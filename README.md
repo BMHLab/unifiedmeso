@@ -9,6 +9,7 @@ A = np.load('brain_mean_connectivity.pd')
 
 Detailed comments are provided within python scripts.
 
+---
 
 Dependencies
 -----------------------
